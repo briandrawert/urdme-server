@@ -1,4 +1,4 @@
 urdme-server
 ============
 
-URDME-Server: remove execution of stochastic reaction-diffusion simulations
+URDME-Server: remote execution of stochastic reaction-diffusion simulations with URDME.
